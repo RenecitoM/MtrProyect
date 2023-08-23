@@ -23,7 +23,7 @@ function App() {
                   <a className="nav-link" href="#">Pricing</a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link disabled" aria-disabled="true">Disabled</a>
+                  <a className="nav-link disabled" aria-disabled="true">Desactivado</a>
                 </li>
               </ul>
             </div>
